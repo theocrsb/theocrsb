@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Théo — Web Developer 
 
-<!--
-**theocrsb/theocrsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Currently working on:**
+- Frontend development at **e.SNCF Solutions** (React)
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack:**
+- Frontend: React, Angular, TypeScript, JavaScript
+- Backend: NestJS, Spring Boot (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Career Path
+- **Frontend Developer — e.SNCF Solutions (2024 - Present)**
+- **Full Stack Junior Developer — e.SNCF Solutions (2023 - 2024)**
+- **Simplon Training — Web & Mobile Developer (2022 - 2023)**
+
+---
+
+## 📫 Get in Touch
+- LinkedIn: https://www.linkedin.com/in/th%C3%A9o-crosbie-2077982a0/
+- Portfolio: 🏗️ In progress ...
