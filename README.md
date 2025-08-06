@@ -3,10 +3,6 @@
 🎯 **Currently working on:**
 - Frontend development at **e.SNCF Solutions** (React)
 
-🛠️ **Tech Stack:**
-- Frontend: React, Angular, TypeScript, JavaScript
-- Backend: NestJS, Spring Boot (Java)
-
 ## 📚 Career Path
 - **Frontend Developer — e.SNCF Solutions (2024 - Present)**
 - **Full Stack Junior Developer — e.SNCF Solutions (2023 - 2024)**
